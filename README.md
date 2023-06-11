@@ -1,5 +1,6 @@
-# BonheurNationalBrut
-Comment prédire le niveau de bonheur d'un pays ?
+# Bonheur National Brut
+## Comment prédire le niveau de bonheur d'un pays ?
+
 ![Démonstration streamlit](https://bonheur-national-brut.streamlit.app/)
 
 
@@ -27,4 +28,5 @@ En conclusion, cette étude a permis de comprendre les facteurs qui influencent 
 
 
 Les variables ayant le plus de poids sont le PIB, la liberté de la presse et l'espérance de vie en bonne santé. Nos analyses nous ont permis de mettre en place un quiz permettant de prédire son score de bonheur personnel.
+
 ![Démonstration streamlit](https://bonheur-national-brut.streamlit.app/)
